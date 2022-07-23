@@ -3,3 +3,4 @@
 ## Current projects
 # - [Growing Potatoes](https://github.com/PetteriKiiski/GrowingPotatoes) - Grow. a. LOT. of .potatoes. and. other. fruit
 #### - [Chess](https://github.com/PetteriKiiski/Chess) - Chess. not finished. . . . . . . .
+# - [Amoong-us](https://github.com/LiljaKiiski/amoong-us) - making with [Lilja Kiiski](https://github.com/LiljaKiiski)
