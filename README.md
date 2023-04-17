@@ -5,6 +5,6 @@
 ### - Bullet Hell (for the <a href="itch.io/jam/scream-jam-2022">Scream Jam</a>)
 
 # Coolest Project(s)
-### - Button Sequence(for the <a href="https://itch.io/jam/1-button-jam-2022">1-Button Jam</a>)
+### - <a href="https://github.com/PetteriKiiski/button-sequence">Button Sequence</a>(for the <a href="https://itch.io/jam/1-button-jam-2022">1-Button Jam</a>)
 ### - <a href="https://github.com/PetteriKiiski/GrowingPotatoes">Growing Potatoes</a>
 ### - <a href="https://github.com/PetteriKiiski/UDloader">UDLoader</a>
